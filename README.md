@@ -39,17 +39,12 @@ Uso
 
 3. No shell, navegue até a pasta
 
-4. Abra o Python
+4. Abra o arquivo index.py no terminal Python
 
-`$ python`
+`$ python index.py`
 
-5. Importe o arquivo index.py
+5. Seja feliz =)
 
-`>> from index import func`
-
-6. Escreva a função **func()** para obter o resultado
-
-`>> func()`
 
 Precisamos de você!
 -------------------
